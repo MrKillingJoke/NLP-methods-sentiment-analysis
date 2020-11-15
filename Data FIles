@@ -1,0 +1,12 @@
+Lemmatization with NLTK :
+	-> i hate the NLTK API but it's would be fun
+	-> The lematization is the way to have standards words like better : good. The lemme of better is good.
+	-> it's usefull because with one string we could get a list and convert this list in set to remove all occurences of a word.
+
+Source :
+https://www.geeksforgeeks.org/python-lemmatization-with-nltk/#:~:text=Lemmatization%20is%20the%20process%20of,similar%20meaning%20to%20one%20word
+
+Text Data Vectorization :
+
+Sources :
+https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76

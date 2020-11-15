@@ -1,0 +1,6 @@
+1 , Download annotated data and start cleaning up by writing some regular expressions to remove punctuation and split contacted forms 
+2, we need to normalize data by lemmatization or stemming and remove stop words
+3- We need to convert words to numerical we can use techniques like tf_idf computing.
+4- Train at least 5 machine learning model
+5_ Train a deep Learning model 
+6 - Compare our model with Vader and Textblob
