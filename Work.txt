@@ -2,5 +2,7 @@
 2, we need to normalize data by lemmatization or stemming and remove stop words
 3- We need to convert words to numerical we can use techniques like tf_idf computing.
 4- Train at least 5 machine learning model
-5_ Train a deep Learning model 
+5_ Train a deep Learning model (optionnal, if we have time)
 6 - Compare our model with Vader and Textblob
+
+The corpus we are going to use is on kaggle.

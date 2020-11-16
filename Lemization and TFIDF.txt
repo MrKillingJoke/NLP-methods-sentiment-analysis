@@ -2,6 +2,7 @@ Lemmatization with NLTK :
 	-> i hate the NLTK API but it's would be fun
 	-> The lematization is the way to have standards words like better : good. The lemme of better is good.
 	-> it's usefull because with one string we could get a list and convert this list in set to remove all occurences of a word.
+	-> Lemmatization is a way to normalize the word
 
 Source :
 https://www.geeksforgeeks.org/python-lemmatization-with-nltk/#:~:text=Lemmatization%20is%20the%20process%20of,similar%20meaning%20to%20one%20word
@@ -20,3 +21,4 @@ TFIDF :
 	-> IDF : The log of the number of documents divided by the number of documents that contain the word w. We compute only one time for all documents the IDF
 	-> The TFIDF is just the product of Tf by IDF
 	-> Sklearn is a better way to compute the TFIDF but it's interessant to know how implement the TFIDF
+	-> Sklearn is a library get many function and methods for make AI.
